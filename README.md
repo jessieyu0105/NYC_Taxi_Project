@@ -1,6 +1,6 @@
 # New York City Taxi Trip Prediction
 
-##### Team Members: Yuhang Shang, Zhenyu Wang, Jie Yu
+### Team Members: Yuhang Shang, Zhenyu Wang, Jie Yu
 
 ### Data Source:
 * [2016 New York City Taxi Data from BigQuery](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-tlc-trips?filter=solution-type:dataset&filter=category:encyclopedic)
